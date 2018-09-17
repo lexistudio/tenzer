@@ -9,7 +9,7 @@
 <body>
   <div class="wrapper">  
     <div class="page grid">
-      test
+      header
     </div>
 
     <div class="oush"></div>
@@ -17,7 +17,7 @@
 
   <footer class="foot">
     <div class="page">
-      test
+      footer
     </div>
   </footer>
 
