@@ -36,6 +36,8 @@
   <div class="wrapper">
     <div class="page grid">
 
+      test
+
       <?php $get = $_GET["id"]; ?>
 
       <ul class="nav">
