@@ -38,14 +38,6 @@
 
       test
 
-      <?php $get = $_GET["id"]; ?>
-
-      <ul class="nav">
-        <?php for ($i = 1; $i < 10; $i++) { ?>
-          <li <?php if ($get == $i) {echo "class='active'";} ?>><a href="/?id=<?= intval($i); ?>"><?= $i; ?></a></li>
-        <?php } ?>
-      </ul>
-
     </div>
 
     <div class="oush"></div>
